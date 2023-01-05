@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'HamRadio is cool',
+  title: 'Manuals for ExpertSDR2/ExpertSDR3',
+  tagline: 'SunSDR2 Pro DX is very cool',
   url: 'https://jwluiten.github.io',
   baseUrl: '/',
   trailingSlash: false,
